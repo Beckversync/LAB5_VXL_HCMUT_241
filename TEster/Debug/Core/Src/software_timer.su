@@ -1,0 +1,5 @@
+software_timer.c:5:6:set_timeout_ok	16	static
+software_timer.c:9:9:get_timeout_ok	4	static
+software_timer.c:15:6:set_timer_blink_led	16	static
+software_timer.c:19:9:get_timer_blink_led	4	static
+software_timer.c:23:6:timer_run	4	static
